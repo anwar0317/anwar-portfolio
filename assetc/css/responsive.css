@@ -1,0 +1,675 @@
+@media (min-width:1100px){
+
+    span.logo img {
+        width: 15%;
+        padding: 15px;
+    }
+    .hero-img {
+        width: 50%!important;
+        float: left;
+        margin-left: 0%!important;
+      }
+      
+      .main-wrap {
+        display: flex;
+        align-items: center;
+        padding-top: 170px!important;
+      }
+      
+      .hero-img img {
+        width: 50%!important;
+        border-radius: 100px 0px!important;
+        border-left-color: tomato!important;
+        border: solid 2px;
+        border-right-color: green;
+        border-top-color: #fff;
+        border-bottom-color: blue;
+        border-left-style: dashed;
+        border-right-style: dashed;
+      }
+      .main-title {
+        line-height: 40px!important;
+        color: #fff;
+        font-size: 15px!important;
+        background: #00000073;
+        padding: 20px!important;
+        text-align: center;
+        font-weight: 700;
+        font-family: cursive;
+        box-sizing: border-box;
+        box-shadow: 1px 0px 15px 9px #000000;
+        bottom: 40%!important;
+      }
+      .project-complete {
+        width: 45%;
+        float: left;
+        color: #fff;
+        padding-top: 27px;
+    }
+    .project-box {
+        float: left;
+        border: solid 1px #524c4c;
+        padding: 20px;
+        width: 32%;
+        /* position: relative; */
+        margin-bottom: 15px;
+        margin-right: 18px;
+    }
+    .project-count h1 {
+        font-size: 40px;
+        color: #FFB400;
+    }
+    .project--des p {
+        font-size: 13px;
+        line-height: 25px;
+        text-align: center;
+    }
+    .skill-wrap {
+        width: 45%;
+        float: left;
+        margin-right: 30px;
+        margin-bottom: 10px;
+    }
+    .my-experi {
+        width: 45%;
+        float: left;
+        padding: 10px;
+    }
+    .loc-box {
+        width: 29%;
+        float: left;
+        border: solid 1px #ddd;
+        padding: 10px;
+        margin-right: 10px;
+    }
+    
+}
+
+
+@media (max-width:1100px){
+  
+    span.logo img {
+        width: 20%;
+        padding: 15px;
+    }
+    .name-details ul li {
+        width: 42%;
+        float: left;
+        line-height: 33px;
+        color: #ffffffb5;
+        font-family: monospace;
+        font-size: 10px;
+    }
+    .project-complete {
+        width: 45%;
+        float: left;
+        color: #fff;
+        padding-top: 27px;
+    }
+    .project-box {
+        float: left;
+        border: solid 1px #524c4c;
+        padding: 20px;
+        width: 30%;
+        /* position: relative; */
+        margin-bottom: 15px;
+        margin-right: 18px;
+    }
+    .project-complete {
+        width: 45%;
+        float: left;
+        color: #fff;
+        padding-top: 27px;
+    }
+    .project-count h1 {
+        font-size: 35px;
+        color: #FFB400;
+    }
+    .project--des p {
+        font-size: 12px;
+        line-height: 25px;
+        text-align: center;
+    }
+    .skill-wrap {
+        width: 46%;
+        float: left;
+        margin-right: 30px;
+        margin-bottom: 10px;
+    }
+    .my-experi {
+        width: 45%;
+        float: left;
+        padding: 10px;
+    }
+    .loc-box {
+        width: 29%;
+        float: left;
+        border: solid 1px #ddd;
+        padding: 10px;
+        margin-right: 10px;
+    }
+    .loc-box a {
+        font-size: 15px;
+        width: 100%;
+        text-align: center;
+        display: block;
+        padding: 12px 0px;
+        color: #766;
+        background: transparent;
+    }
+    input.yrname {
+        width: 45%;
+        float: left;
+        padding: 13px;
+        margin-right: 10px;
+        margin-bottom: 20px;
+        background: #dedede;
+        border: none;
+        font-size: 16px;
+    }
+}
+
+
+
+
+/*-------------------------------*/
+
+
+
+
+@media(max-width: 991px){
+    .main-title {
+        line-height: 35px;
+        color: rgb(255, 254, 254);
+        font-size: 11px;
+        background: #00000073;
+        padding: 20px;
+        text-align: center;
+        font-weight: 700;
+        font-family: cursive;
+        box-sizing: border-box;
+        box-shadow: 1px 0px 15px 9px #000000;
+    }
+    .hero-img img {
+        width: 62%;
+        border-radius: 62px 0px;
+        border-left-color: tomato!important;
+        border: solid 2px;
+        border-right-color: green;
+        border-top-color: #fff;
+        border-bottom-color: blue;
+        border-left-style: dashed;
+        border-right-style: dashed;
+    }
+    .personal-info {
+        width: 100%;
+        float: left;
+        padding: 20px;
+        color: #fff;
+        margin-right: 20px;
+    }
+    .name-details ul li {
+        width: 42%;
+        float: left;
+        line-height: 33px;
+        color: #ffffffb5;
+        font-family: monospace;
+        font-size: 15px;
+    }
+    .project-complete {
+        width: 100%;
+        float: left;
+        color: #fff;
+        padding-top: 27px;
+    }
+    .project-box {
+        float: left;
+        border: solid 1px #524c4c;
+        padding: 20px;
+        width: 40%;
+        /* position: relative; */
+        margin-bottom: 15px;
+        margin-right: 18px;
+    }
+    .project-count h1 {
+        font-size: 50px;
+        color: #FFB400;
+    }
+    .project--des p {
+        font-size: 20px;
+        line-height: 25px;
+        text-align: center;
+    }
+    .skill-wrap {
+        width: 100%;
+        float: left;
+        margin-right: 30px;
+        margin-bottom: 10px;
+    }
+    .my-experi-box {
+        border: solid 1px #ddd;
+        padding: 20px;
+        margin-bottom: 20px;
+        height: 160px;
+    }
+    .my-experi {
+        width: 42%;
+        float: left;
+        padding: 10px;
+    }
+    .my-experi-box-title h3 {
+        font-weight: 500;
+        font-family: cursive;
+        padding-bottom: 15px;
+        font-size: 16px;
+        text-align: center;
+    }
+    .my-experi-box p {
+        padding: 20px 0px 0px;
+        text-align: justify;
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .my-experi-box span {
+        background: #593EFF;
+        padding: 3px 11px;
+        color: #fff;
+        font-size: 15px;
+        display: block;
+        text-align: center;
+    }
+    .service-box {
+        width: 47%;
+        background: url(../images/services1.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        float: left;
+        margin-right: 15px;
+        margin-bottom: 15px;
+    }
+    .loc-box {
+        width: 28%;
+        float: left;
+        border: solid 1px #ddd;
+        padding: 10px;
+        margin-right: 10px;
+    }
+    .loc-box a {
+        font-size: 12px;
+        width: 100%;
+        text-align: center;
+        display: block;
+        padding: 12px 0px;
+        color: #766;
+        background: transparent;
+    }
+    input.yrname {
+        width: 43%;
+        float: left;
+        padding: 15px;
+        margin-right: 10px;
+        margin-bottom: 20px;
+        background: #dedede;
+        border: none;
+        font-size: 16px;
+    }
+}
+
+
+
+/*-------------------------------*/
+
+@media(max-width: 775px){
+
+}
+
+
+/*-------------------------------*/
+
+
+@media(max-width: 768px){
+    span.logo img {
+        width: 25%;
+        padding: 16px;
+    }
+    .main-title {
+        line-height: 22px;
+        color: rgb(255, 255, 255);
+        font-size: 8px;
+        background: #00000073;
+        padding: 20px;
+        text-align: center;
+        font-weight: 700;
+        font-family: cursive;
+        box-sizing: border-box;
+        box-shadow: 1px 0px 15px 9px #000000;
+    }
+    .name-details ul li {
+        width: 42%;
+        float: left;
+        line-height: 33px;
+        color: #ffffffb5;
+        font-family: monospace;
+        font-size: 11px;
+    }
+    .project-box {
+        float: left;
+        border: solid 1px #524c4c;
+        padding: 20px;
+        width: 35%;
+        /* position: relative; */
+        margin-bottom: 15px;
+        margin-right: 18px;
+    }
+    .my-edu {
+        width: 74%;
+        float: left;
+        /* margin-left: 23px; */
+        padding: 10px;
+    }
+    .my-experi {
+        width: 74%;
+        float: left;
+        padding: 10px;
+    }
+    .my-experi-box {
+        border: solid 1px #ddd;
+        padding: 20px;
+        margin-bottom: 20px;
+        height: 160px;
+        margin-left: 20%;
+    }
+    .service-box {
+        width: 100%;
+        background: url(../images/services1.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        float: left;
+        margin-right: 15px;
+        margin-bottom: 15px;
+    }
+    .hire-me h1 {
+        text-align: center;
+        color: #fff;
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .loc-box {
+        width: 95%;
+        float: left;
+        border: solid 1px #ddd;
+        padding: 10px;
+        margin-right: 10px;
+        margin-bottom: 20px;
+    }
+    input.yrname {
+        width: 94%;
+        float: left;
+        padding: 15px;
+        margin-right: 10px;
+        margin-bottom: 20px;
+        background: #dedede;
+        border: none;
+        font-size: 16px;
+    }
+    .home-wra span {
+        color: #FFB400;
+        display: block;
+        font-size: 22px;
+    }
+    .home-wra h1 {
+        font-size: 40px;
+    }
+    .home-wra h3 {
+        font-size: 22px;
+        color: #f96d43;
+        text-transform: capitalize;
+    }
+}
+
+
+
+/*-------------------------------*/
+
+@media(max-width: 575px){
+    .section {
+        background: url(../images/main.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    
+    span.logo img {
+        width: 35%;
+        padding: 16px;
+    }
+    .main-title {
+        line-height: 22px;
+        color: rgb(255, 255, 255);
+        font-size: 6px;
+        background: #00000073;
+        padding: 20px;
+        text-align: center;
+        font-weight: 700;
+        font-family: cursive;
+        box-sizing: border-box;
+        box-shadow: 1px 0px 15px 9px #000000;
+    }
+    .hero-img img {
+        width: 75%;
+        border-radius: 47px 0px;
+        border-left-color: tomato!important;
+        border: solid 2px;
+        border-right-color: green;
+        border-top-color: #fff;
+        border-bottom-color: blue;
+        border-left-style: dashed;
+        border-right-style: dashed;
+    }
+    .name-details ul li {
+        width: 100%;
+        float: left;
+        line-height: 33px;
+        color: #ffffffb5;
+        font-family: monospace;
+        font-size: 15px;
+    }
+    .personal-info-title {
+        padding: 15px 0px;
+       
+    }
+    .project-box {
+        float: left;
+        border: solid 1px #524c4c;
+        padding: 20px;
+        width: 55%;
+        /* position: relative; */
+        /* margin-bottom: 15px; */
+        margin-left: 20%;
+    }
+    .my-edu {
+        width: 100%;
+        float: left;
+        margin-left: 0px;
+        padding: 10px;
+    }
+    .my-experi {
+        width: 100%;
+        float: left;
+        padding: 10px;
+    }
+    .my-experi-box {
+        border: solid 1px #ddd;
+        padding: 20px;
+        margin-bottom: 20px;
+        height: 160px;
+        margin-left: 0%;
+    }
+    .hire-me h1 {
+        text-align: center;
+        color: #fff;
+        font-size: 24px;
+        font-family: cursive;
+    }
+    .hire-me button a {
+        color: #ffff;
+        background: #151e37db;
+        padding: 12px 40px;
+    }
+    .loc-box {
+        width: 94%;
+        float: left;
+        border: solid 1px #ddd;
+        padding: 10px;
+        margin-right: 10px;
+        margin-bottom: 20px;
+    }
+    .home-wra {
+        line-height: 45px;
+        padding: 20px;
+        text-align: center;
+        color: #fff;
+        background: #07070738;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+}
+
+
+
+/*-------------------------------*/
+
+@media(min-width: 575px){
+    .hero-img {
+        display: none;
+    }
+}
+
+
+
+/*-------------------------------*/
+
+@media(max-width:450px){
+    .home-wra h1 {
+        font-size: 30px;
+    }
+    span.logo img {
+        width: 35%;
+        padding: 27px 0px;
+    }
+    .main-wrap {
+        display: flex;
+        align-items: center;
+        padding-top: 95px;
+    }
+    .main-title {
+        position: absolute;
+        font-size: 9px;
+        line-height: 28px;
+        color: rgb(255, 255, 255);
+        background: #00000073;
+        padding: 20px;
+        text-align: center;
+        font-weight: 700;
+        font-family: cursive;
+        box-sizing: border-box;
+        box-shadow: 1px 0px 15px 9px #000000;
+        bottom: 25%;
+        right: 25%;
+    }
+    .hero-img img {
+        width: 80%;
+        border-radius: 45px 0px;
+        border-left-color: tomato!important;
+        border: solid 2px;
+        border-right-color: green;
+        border-top-color: #fff;
+        border-bottom-color: blue;
+        border-left-style: dashed;
+        border-right-style: dashed;
+    }
+    .hero-img {
+        width: 55%;
+        /* float: left; */
+        margin-left: 20%;
+       
+    }
+    .hire-me h1 {
+        text-align: center;
+        color: #fff;
+        font-size: 10px;
+        font-family: cursive;
+    }
+    .hire-me button a {
+        color: #ffff;
+        background: #151e37db;
+        padding: 8px 8px;
+        font-size: 11px;
+    }
+    .loc-box {
+        width: 84%;
+        float: left;
+        border: solid 1px #ddd;
+        padding: 10px;
+        margin-right: 10px;
+        margin-bottom: 20px;
+    }
+    .hero-img {
+        width: 64%;
+        /* float: left; */
+        margin-left: 23%;
+    }
+
+}
+
+
+
+/*-------------------------------*/
+
+
+@media(max-width:50px){
+
+}
+
+@media(min-height:600px){
+    .hero-img {
+        width: 55%;
+        /* float: left; */
+        margin-left: 23%;
+    }
+    .hero-img img {
+        width: 100%;
+        border-radius: 45px 0px;
+        border-left-color: tomato!important;
+        border: solid 2px;
+        border-right-color: green;
+        border-top-color: #fff;
+        border-bottom-color: blue;
+        border-left-style: dashed;
+        border-right-style: dashed;
+    }
+    .main-title {
+        position: absolute;
+        font-size: 9px;
+        line-height: 28px;
+        color: #fff;
+        background: #00000073;
+        padding: 20px;
+        text-align: center;
+        font-weight: 700;
+        font-family: cursive;
+        box-sizing: border-box;
+        box-shadow: 1px 0px 15px 9px #000000;
+        bottom: 34%;
+        right: 22%;
+    }
+    .main-wrap {
+        display: flex;
+        align-items: center;
+        padding-top: 130px;
+    }
+}
+
+/*-------------------------------*/
